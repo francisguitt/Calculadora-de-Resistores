@@ -1,0 +1,120 @@
+.header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgba(15, 141, 124, 0.534);
+    height: 100vh;
+}
+
+.headerTitle {
+    margin-top: 0;
+    width: 100%;
+    padding: 10px;
+    height: 90px;
+    background-color: rgb(15, 141, 124);
+    box-shadow: 1px 1px 8px 1px #ddd;
+}
+
+.headerTitle h1{
+    color: #0d0336c4;
+}
+
+.headerContent {
+    display: flex;
+    margin: 1.5rem 0 auto;
+    padding: 16px;
+    flex-direction: column;
+    max-width: 400px;
+    height: 550px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: aliceblue;
+
+}
+
+.buttonArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 2rem;
+}
+.buttonCalculate {
+    padding: 13px;
+    width: 300px;
+    text-align: center;
+    margin-top: -2rem;
+    border: 0;
+    outline: none;
+    background-color: rgb(15, 141, 124);
+    border-radius: 20px;
+    color: #ffff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.result{
+    display: flex;
+    margin-top: 1.5rem;
+    background-color: #dddddd56;
+    padding: 10px;
+    border-radius: 10px;
+}
+.result h2{
+    font-size: 18px;
+    /* margin-bottom: 5px; */
+}
+.result h3{
+    font-size: 14px;
+}
+
+.select {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: #ddd; */
+}
+
+.selectChildren {
+    width: 200px;
+    padding: 8px;
+    margin-left: 1rem;
+    border: 0;
+    outline: none;
+    border-radius: 10px;
+    background-color: #74747433;
+    color: #333;
+    font-weight: bold;
+}
+
+.label{
+    color: #000;
+    font-weight: bold;
+}
+
+
+
+/* ================================footer===================== */
+.footer{
+    position: fixed;
+    bottom: 0.1rem;
+    right: 0;
+    left: 0;
+    /* background-color: red; */
+    padding: 20px;
+}
+.footerContent{
+   display: flex;
+   justify-content: space-around;
+}
+
+
+/* ==============================color icons=================== */
+.iconsInstagram{
+     background: linear-gradient(45deg, #833AB4, #C13584, #F56040, #FFD700, #405DE6);
+     color: #d1d1d1a4;
+}

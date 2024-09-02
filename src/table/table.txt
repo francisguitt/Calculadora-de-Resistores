@@ -1,0 +1,14 @@
+Cor	Dígito	Multiplicador	Tolerância
+Preto	0	1	N/A
+Marrom	1	10	±1%
+Vermelho	2	100	±2%
+Laranja	3	1000	N/A
+Amarelo	4	10000	N/A
+Verde	5	100000	±0.5%
+Azul	6	1000000	±0.25%
+Violeta	7	10000000	±0.1%
+Cinza	8	100000000	±0.05%
+Branco	9	1000000000	N/A
+Ouro	N/A	0.1	±5%
+Prata	N/A	0.01	±10%
+Sem cor	N/A	N/A	±20%
