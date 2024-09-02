@@ -50,3 +50,6 @@ Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Feito com ❤️ por Guitt Web Code /Guitt Zoom
+
+
+Demontração: https://calculadora-de-resistores.vercel.app/
